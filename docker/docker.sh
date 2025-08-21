@@ -18,4 +18,4 @@ done
 
 #Delete the text files created above
 rm docker.txt
-rm exited_container
+rm exited_container.txt
